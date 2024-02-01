@@ -1,0 +1,9 @@
+{"Location":[],"Time":[],"Actors":[],"Names":[]}
+
+
+{
+  "Location": ["Nordstetten", "Wald", "Schulhof", "Wohnzimmer", "Flur", "Bäcker", "Feldweg", "Strommast", "Jägersitz", "Wiese", "Kindergarten", "Baustelle", "Waldweg", "Lichtung"],
+  "Time": ["Nachmittag", "Sommer", "mitten im Sommer", "träger Tag"],
+  "Actor": ["Jan", "Maxi", "Herr Pfeiffer", "Jans Mama", "Jans Vater", "Verkäuferin", "Kater Rudi"],
+  "Mood": ["besorgt", "abenteuerlustig", "ängstlich", "mutig", "respektvoll", "ernst", "nachdenklich", "traurig", "fürsorglich"]
+}

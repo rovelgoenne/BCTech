@@ -4,7 +4,7 @@ using Microsoft.Projects.Project.Planning;
 using CopilotToolkitDemo.DescribeJob;
 using Microsoft.Projects.Resources.Resource;
 
-page 54322 "Copilot Resource Proposal"
+page 54324 "Copilot Resource Proposal"
 {
     PageType = PromptDialog;
     Extensible = false;

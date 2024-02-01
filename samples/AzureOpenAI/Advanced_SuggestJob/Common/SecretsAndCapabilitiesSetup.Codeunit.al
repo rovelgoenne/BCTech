@@ -27,9 +27,9 @@ codeunit 54310 "Secrets And Capabilities Setup"
             CopilotCapability.RegisterCapability(Enum::"Copilot Capability"::"Describe Job", Enum::"Copilot Availability"::Preview, LearnMoreUrlTxt);
 
         // You will need to use your own key for Azure OpenAI for all your Copilot features (for both development and production).
-        Error('Set up your secrets here before publishing the app.');
-        // IsolatedStorageWrapper.SetSecretKey('');
-        // IsolatedStorageWrapper.SetDeployment('');
-        // IsolatedStorageWrapper.SetEndpoint('');
+        // Error('Set up your secrets here before publishing the app.');
+        IsolatedStorageWrapper.SetSecretKey('3906db9f22324cc0b5757d78abee8101');
+        IsolatedStorageWrapper.SetDeployment('PDEGPT41106PREVIEW');
+        IsolatedStorageWrapper.SetEndpoint('https://knkgpt4sweden.openai.azure.com/');
     end;
 }
